@@ -12,6 +12,10 @@
 
 希望帮助读者们节省到处找资料的时间，把时间和注意力用在关键节点上。
 
+- Notion链接：<https://contentgarden.notion.site/2022-15865d81b93e4d9e9e20ac421346fdc0>
+
+- GitHub链接：<https://github.com/qianguyihao/supply-list>
+
 
 ## 在线文档
 
